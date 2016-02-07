@@ -1,9 +1,9 @@
 ## CSCI 2312: Programming Assignment 1
 
--Name : Melanie Woe
--Programming Assignment #2
-⋅⋅⋅Student ID : 105557790
-⋅⋅⋅Due Date : Feb. 07, 2016
+- Name : Melanie Woe
+- Programming Assignment #2
+- Student ID : 105557790
+- Due Date : Feb. 07, 2016
 
 ***
 
@@ -14,10 +14,10 @@ The program will have a class that represent points in three (3) dimensions and 
 ***
 Source files:
 ------
-⋅⋅⋅main.cpp = this is the main function. It executes all tests in the project.
-⋅⋅⋅point.h = contains the class's definition of class point.
-⋅⋅⋅point.cpp = this defines and implement the point class and also where the class get the distance from the points 
-⋅⋅⋅area.cpp = it computes the area of triangle in 3-dimesions.
+- main.cpp = this is the main function. It executes all tests in the project.
+- point.h = contains the class's definition of class point.
+- point.cpp = this defines and implement the point class and also where the class get the distance from the points 
+- area.cpp = it computes the area of triangle in 3-dimesions.
 
 ***
 
