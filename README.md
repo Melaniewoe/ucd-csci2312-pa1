@@ -21,7 +21,7 @@ Source files:
 
 ***
 
-Program's Status:
+Programs' Status:
 ------
 ⋅⋅⋅The program runs successfully, it passed 56/56.
 ⋅⋅⋅It was developed and tested on xCode version 7.2 and Clion 1.2.4
